@@ -5,4 +5,3 @@ pytz
 RouterOS-api
 sqlparse
 typing_extensions
-corsheaders
